@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>PROJECT 1 ON INDIAN FOOD ITEMS</title>
+</head>
+
+<body>
+    <h1>
+        <mark>
+            <INS>
+                POPULAR INDIAN FOOD ITEMS :
+            </INS>
+        </mark>
+    </h1>
+    <P>
+        Indian food, not unlike any other country’s national food scene, is a vast constellation of culinary influences
+        and traditions from all over the Asian continent.
+    </P>
+    <p>
+        Traditional Indian food is built from the same flavor foundations. However, dishes vary widely between North
+        Indian and South Indian cuisine. 
+    </p>
+    <h2>
+        <MARK>
+            <ins>SOME POPULAR INDIAN FOOD ITEMS :-
+            </ins>
+        </MARK>
+    </h2>
+    <H3>
+        <ins>
+            <i>
+                <mark>
+                    1. FISH.
+                </mark>
+            </i>
+        </ins>
+    </H3>
+    <BR>
+    A list is given below where we can see names of some FISH and the STATE where the fish is mostly consumed .
+    <P>
+    <table>
+        <tr>
+            <th>
+                <ins>NAME OF THE FISH</ins>
+            </th>
+            <th>
+                <ins>STATE</ins>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                SARDINE
+            </td>
+            <td>
+                KERALA
+            </td>
+        </tr>
+        <tr>
+            <td>
+                CLIMBING PERCH
+            </td>
+            <td>
+                WEST BENGAL
+            </td>
+        </tr>
+        <tr>
+            <td>
+                POMFRET
+            </td>
+            <td>
+                GOA
+            </td>
+        </tr>
+        <td>
+            HILSA
+        </td>
+        <td>
+            WEST BENGAL
+        </td>
+        </tr>
+    </table>
+    </P>
+    <blockquote>
+        <strong>India</strong> is the <strong>third largest fish producing</strong> country and the <strong>second
+            largest aquaculture fish producer</strong> in the world. India contributes about 7% to the global fish
+        production.
+        The country is also home to more than 10% of the global fish biodiversity and is one of the 17-mega biodiversity
+        rich countries. Around 14 million people are engaged in fisheries and its allied activities.
+        <abbr title="Andhra Pradesh">AP</abbr> is the largest fish producer in the country followed by <abbr
+            title="west bengal">WB</abbr> and Gujarat.
+        The total fish production during 2017-18 is estimated to be 12.60 million metric tonnes, of which nearly 70% is
+        from inland sector and about 50% of the total production is from culture fisheries.
+        More than 50 different types of fish and shellfish products are being exported to 75 countries around the world.
+        Fish and fish products have presently emerged as the largest group in agricultural exports from India, with
+        13.77 lakh tonnes in terms of quantity and Rs. 45,106.89 crore in value.
+    </blockquote>
+    <p>
+        <b>
+            <ins>
+                A. SARDINE
+                <br>
+                <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVEhgVFRIYGBgYGBoYGRgZGhoYGhgZGBwaGhwaGRwcIS4lHB4rHxoYJjgnLC8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHjElJCs0NDExMTQ0NDE0NDE0NDE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDExNDQxP//AABEIAL4BCQMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAABAAIEBQYDB//EAD0QAAEDAgQDBgMGBAYDAQAAAAEAAhEDIQQFEjFBUWEGIjJxgZETobFCUmLB0fAUouHxI0NygpKyFRZzNP/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/EACERAQEAAgICAwEBAQAAAAAAAAABAhEDIRIxBEFRYSIT/9oADAMBAAIRAxEAPwD2ZJBJAUkEkBSQSQFBJJAkkkEBSQSQJJJBBz+K2dMid46dOa6KtzrD6qeobsvPRV+Bzd7Tpf3hz4j9Vwz5phlrL1+rI0SS4UMSxw7rp6cfZdl2xymU3LtCSSSWkJNSSRSQSQQJIpIIEUCkUFQkEkECKaUU0ogOCZpXQoIJ6KCSyopIJICkgkgKCSCApKvxmaNpO0va6+xAEH5rmzO6R+8PT9Fzy5cMbq3QtEFEp5jSdtUHrI+qkhwNwZ8rrUzxy9WUOSQSWwHtBBB42WTxNLS49CQtas5jm9908z9V4fnSXGNRyw9QjYwrXDZjwf7/AKqkc6Lp7aghfO4eXLjvTVm2pBlJZ7C49zTa44tO3pyV3hsS14lp8xxC+vw/Ix5OvVYs07IJIL0ISSSRQBBJJUIppRQKAFAooIAUCkUigCCKCInpIJKKKSCSgKSCSoKSEpSgjY/CNqsLT5g8ispiMK6m6PccltFW5tl/xG6m2cP5hyP5Ly/I4ZnjuTsjNseFIpVnNuHEeRIVJjswbTcQZDxwj6qGc4J4Qvk48We9xrcbWjnDm+KHD2PuF3qZ82O6yfMwsWMW8g6GAkM194mX3ghgFjHXdQMbmeIGj4dNh1OLHO0F+lwjxAnu78eRX0eHHnnuzX9LZ+NbiO0j3WZG8TFp6E7+iqMfjKusu1kgQDMbxP04KPisRiGNbDaTXBmoHRuSJgCY39drKPXFcU2n4jHtLu8GN2LjfT94+y3nhcurdrbNekpmYn7SecXGxt9FR1qr2HvDYkAhjptvYFdGYprtnsB5OJYT6PAHzXC/Ey9yMeTQ0cZwJ8lZ4PGaTIKxznPaJLHAc4kf8myEaeYHn6rjeHPC79NTJ6VRzVh8XdPyU1lVrvC4HyK8uOYuI3VpkuavL9Olum0kufqA4mLzePdezh57ZrImMvpvygVXUMaTtpMdZ/t7qcx4O3svXjlKlmjkEUFpAQRKCoSBSQKAFIpFBAigkgiJspSmylKiuiSZKUoHShKUpIGmoPvD3CZVxTGiXPA9VX50xwZra0OA8TSJgcwsq6uTzHSSvPyc3jda7GqOf0gbhwHOB+q4Y7P2aSKZk9bfVYnHY8gwAfVRG43muH/bk12sPzOjUeS9xlziZBuL7Ry4+gVRVpvbMbcirj+Nqw8im0Na6CO8XtHAuaTBHUKixWaVTW+EKbDMOksJJbaYOqOnot48VvdrWVl+kjL84dTdDhqZO32m/wCnmOYV4zFMI1Na17CR1M87bcN1WZhl7WvIhljBu8HjeSYi3VRn4FzHNLXlurwuaZBdwkEXB2mCumGNx6vbG60b8Y57u62G6SNRHHcm/pfonZWzugMAbL2x7yfkPkqA4/Es8bdUfeDvL7Mj5qww/aEkgPpyN5ae8OYFyI844rtMDyax+HplwLqbXaZ0u/1WPyMqNU7OUX0wxjnsuXXh3CNJnhxUOjmVN8aX2sYJuDvBA6/uys/4uB3SDO9+Fv6LWrE6qmxPZd7ZfRfGpzS0NcWFrftTG5lVeIZXpOOumHgPDJezS5xMxpe2JsCb8Fr/APyvAjhfn5Su7cUx8tcNQvYgHhECfVO/tNRhTi6Dx3qb6JidQbrZtMy28ea7Yeg4EPpVGvj7THaul27+YhanF5PRfH2Q07NgDw6Q3yErOYvsu8OaWECzi5zSWkGe6Gxfj8lzy4sMvrR3FzhszlkOcabpE6TEkdDtxVxhcZDnB7xYAgx1gyRbcj5rz2rXxDBD2Co0Et74hxiAS17bxvvyUrLe0TGjRUD6ckHU46gAN26gJA8x6rlePLHudx0xzl6r1BlXmnalnMJnDXF8O+IyWBmmHHvQLGb3V0ypB0n0n6GV1xzl6MsdJOpKUyUpXVk6UEkkCQKSSAIJFJES0kEVFJJMq1WsaXOMAbnkqvEdoaLdi53kP1hYyzxx93Qt0lSDtJTOzHe4XVmf0juHD0C5z5HHfsWyzud0KdLvhovu3gecTtwVrTzWi7/MaOju79Vms6xfxKm40gbzYDr9Uzyxs3O2sZu9q7EZphXthrHBw3a5oG/EQSsxjaYklhkfd/RWzsNQf3/ilmpx0kU3S7RY6C+AZjeeKi13YYVRS01XHd5ljdIIDpiDIAPNc/DLL3DKSXpFwGY3LKhLQRp1cOQB5dCpzWMDhraLXY6SLAT5WtdMzHJ2BzxreA2SJAdqHMRHzK44bKXaNVPFNcB9lzdul9lvHc6qbqTWq/ED9Le6GAF/CBJOk+pSySlqeyBLQTc9Gnn5rthGV3MlgpvbAtOg/wC5pEfNR6OJqfEBNNrGXBDCxxE2s0O3mLrrMdlybBuDpPYWERJ4WPdjY8rJlTIqT4c2w3NgQ4ERx2EkFUrM4LREvjnpIPz9B6ot7RjvTI3ABAJg+4i2y3qs7lSa/ZgF5LSI02aJBLpJ32Ai3r0VTWybEsHdL2kNBJnU0knwiOUclZjtRzvNhyi/Ljvy3Cm0O0FM2+IOs2PnCn+omoyhxWJYe/T1Afv6JN7Qhru8HM6EGB6rasxVN42BUXEZVQeLtA+i1Mv2J41T0O0jYmQfn/ZSqHaBhPj9Hc/NcK/Yqi6S0weESD9eqgYnsW8DuVCehun+au7F6cxY8AkNdF5EFVtbLsO5sAafreTfnus5iezeJZfRPkYPt7Krc6vTN31WdI1j+ayln4u2jOTPpO14erBnYGAfMeyvcv7YOafhYymW8BUaC4TzI3HpKwNLP6jXAOqAjiDTeD8grrBdo6ZbFQNLTaJmOtxK53+tS/j1TAYpj2yyo1/VpBkc7KTK8gxFTDse19OoWzu4AceG8nhtzWiyTOKlUQC8kW7pJ94mPVXy0a23wKOpUNGniTcPc0fiP6g/RWuGY9o77y49Q0R/xAlblRKlBMlGVQSkgkiJUpSgkiis7m/Z0Ol9Gztyz7J/08vLZaFKVzzwxzmqPOqtBzCQbEbjaPNchiOvuvQcVgmVPG0E89j/AFVQOzTA4w4EciIXjy+Ld9IxmYYqB5qkrYp3DgZuJHqCt1mmT0w/RpcXRPda4tjziAqHHdnXgS0QPxua0fzELWPD4zR25ZRX+JTLGGIOosJ8Ljy6cj9OMhmEZ8Ql4IeCNyS0jeb9bwqQZLiA74lMXHFj2O99LjaOakDNcQHAVcO/bxspl1uHX6rrj17blXeNrgVG02iZbczzufyUDB4RrasNuS6b3KkYXGU7Os3TeTJMHcXEgqQzNcM0FwDmkmC8tJgncwLrcxNrnD4FrabJAa5zW6uBsOY34+6dVy6i4lgMOIBMbxO/LcR6Ktw2PbUjTVYY2v8Av8lJGJI3+vPqts6Sn5OzgTLjMGLDkLbbqK/s6Q0xUOqSeQ0l1hvuBb3RdizIdEkbHkkzHEAtgwSbSdySbcld1NREPZ1/eJc2JGmWhxcIBJNt9XnsmOyEmToZtAEEX9PT5q2GbAnc2ERwtx80jm4um6eMUbMie2SRExGlxBA9SZT2ZdVAkVH8eDXDpynYKzqZ6NtJ9lzf2ha3cRHMJumkBuHxLTvP+2J+ZXT+JxTeE+h/fP3U0Z8DFo6EQfZca+dkzA23Okx6kwB7ps8VXiM4xjf8tjp5Ojz3HmuLs9dB+LQZ1GoEkcYsu9btbhmAB9RhInww75tJCqcZ2lwlRrtLmayIHDe1pWdynpBzivRqeBmhx3P5BVIYxu7iehKJYNdy8N5i/wDZTa2XBzO68kcHAg/JS3Xs6NwmENSGte1oPWfkQVpMuy17C0scC8RBmHTwg7LFuw1RhGk+uy0WUVKhEudBHE/0Oy5ZZWek3p6VlOY/FaQ4Fr2We0iCD5KxlUeURUY2q4Q8HTqHSJE/abxgq5Dl3xu5tp0lEFMlGVoPlJMBRlVEtJBJRRSQSQJI9EU1zgBJIAHEqUeb47C1qWJLq8PBkF0fe+7xFwIvzUHH0xUYabmlzfskwHgyIExBjqL+y2HaDNKLmlgGsj7WwHQWuPkszRzeg86HQ120Hj5c15ceTG5eMrVsMybCOpgt+HDdIBkROkG+qB3r8BsAoVTMKrHa6TjPEl2oQDtfYdLbLRGlqYWsMBzYJJv6BV7MqPwtFO5mS7hx2J8RvwXay06dmY19VzDYOgzphwNgCCHAzxsrAZEXtn4dEOMQTTb6khpXLKsvFDSH6S7U4kzwi3ktJRdZbx3Gbpnv/Xpe0inTABlxBeDp/DDrH+iVbIn67B4ZH2ajtUzIABae7fnwWjawWi0XEJ7iNU9Iibe3utbqaZB+TVAB3KkljjarI1idLfCLHnwUcZZWhv8Ah1gSQHQ5hDJBl19wDG3NbYVAmueQDHevsbQLWTdNMO7L3jhUuHG7G20mALO4zI8uC4/+Nfv/AIlwD4DItMePcfkt49zZkhcH1gOATdNMYMpffx3ndvn+JcxkrpB0uPm0EfVajE5kG8lW4jtA0AjVz4JvJNRT4vKq5uKlQRyAaPKQJA8iFUYrK8S43cbfeYxw/ndKuMb2r0iWOM9bCfOVUVO1tQizXE+Uj3Llm/3SmUaj2SKtOk4D8Gnj/rISrtwrx38LTnoS0/IqLi87NVmhzNDvIQ7l0Coa7XAyCfKbLGp7kFs6lh6Z1NL2D7rXkt9nFNOe0WmGh88SII9ZN1VvBfpbJvOox1HvA/7Lph8BBcQ0aTYTNxPLbZZuX0347XtPFMq+F1+INiuzMQ5pLeircPk/fZpfp2L72EuOxPIQtZl3Z/XULXvMObIIuAQLblcbLbpLx1qeyZP8IwniXn+Yq7BVblNB1Ok1hHgtO4cJmRxG/FWAK9WM1jIjoCnSuYKMrYfKMpkooicimooornUL/shvqT+ScjKlmxEdUrj/AC2HyeR9Qq3NqdSo2C1zAOAGoe7SrxGVi4bmtjyjM2PYS10jzET81Rv7NV6j4a5kvl2guJe1sapcxoJb9V7TjcGyq0tewOHUXHkeCyGMy0MqDTILTLTNzHXiVwnBMMtkjI4TKMbh2l5xLGMaC46y9zIbvBDbRI2PFTsDisTWAcyoxzW/ccQHcJl7By2Jt6rSV6bn3dexBBiDqEGRF54oZbl5p0i1jNIM8gACQXAADiQJ8l3mhQYik/UDFVjyJ21A9YuNwumGzmrSMP7wHQscBzgiCrCox7obSJY6T3xIiTtvcWVgxlUBgeQ94cGmw492RHmrjVqNS7Ss0yXx5/0Tv/YWcHSrWhl41SWNN5MtF+kx5KZTwjQB/hsBB5DnIER5ey6TTHbPjOZ2Y53kCfyUhuJrnw03+o0/9laHBOLRNQ2fNiR5NtALbbFNblTCdTiSWvLxMkhx3IJ4X22V6O1U+pWP2mCJBGpriC0XHc1XCguc9zGv+KS1xAGmm5xEmJIMEDfhxWsp4Jjfs7mZ6ninfCA+yBf3CmzTF1MICYc+q7yaAD5S7yR/8KD/AJT3D8Tw2PYLaBjY2COsDkpummMPZRhuMOyebi5x/wCyLux4IvTZ7Ot/MtbUxUKNUzCLyFldRkavYNjps3+f83FVeL7CPaO463KZhabNO2FCjZ9dod91ved7BZTHdvqjp+CxxnbWA23Pjb0Clsh0p8RkuIw5L3NbpFjq6qPSxcw089mm/wBJXbG59iq4LH6INyACNuZ2sq+lpe4DRq/GLNnpNz5rOXj7axyvqNdkGUtfXYXgESXRvYNJAPUmFu6VMayQNh+/zWEybJKzNNRjywO2tMgcY5StngKddsB7mPHMamn22WMZu7dMr0tWldQVxaugXZyPlGUwFGVQ+UZTUpVRYpIJIooJJIFKRSKaUDpVZmuC1jb9fMFWBTHuAF7CLk7LGU3Fl0x9XMX4c6azS5h7oeBJE7axx8x6qywmNY9kNe0i47pB43EhV+d9pMM0OYG/F4W8H/I/kvMcXmNRj9VGadzAbtzgzY+q5TPV17LcXsDKDZ/YAXVjmtfOoHaee8rzHLe3b2wK9ODtrZMHa5b+i0NPOMNiIJc0nnN/LmunlD23rKrTed11DweCxlEhvgquA5Ekj52VnSzAgQSPMfmFqZJpfmqFxdXVM/MB975ri/MW/eTYun4mFHdi1m8X2mo0/HUaOhI/us5j+3TNqTHPPlDfcqWj0B+YgKozLtLTpjv1Gs6T3j5Dcrz12Z4vEm79DeTLe7jf2hTMD2Z13u4ncm59zdZvJPpNpOYduyZFCm5x2D3nSPMDc/JZrFY7E1/HWfH3Wktb7Df1la1+QUaQmrUawdYE+XNQq2IwrSWsD3kcm6R7uhcss8qSWs1hsvi8e6n08G5xge6mfxbC3U2k4AmACRfhKmUGuLtIECJceMch++CxtqYZVV1sGXN0M2kNc775m4EfYBjzPQX0eTZE11QOI7jBfzPAen1UvKMqLmA+Fo4kepjmZ+i0FGk1rdDRA+Z5k9f1V7rrMZjEpg2jYCwUmmFwptUlgXowx1HPK7dAnApgRWmXQJBNBRVD0pQBSlVFkkglKqikglKAoFKUHTFjB57woiuzfN6eGZLzLj4WDxO/QdSvPs1zitiSdRIZNmN8Pr949Sty/s5Rc8vfre47lzt/bZSaeVUGeGk31v8AVccscsvfULt5X/Cki4hQ8Thm8YXsX8HTG1Ng/wBrf0TX4dm2hv8AxCz/AMdek08KxOCB4KsqYKDafNey5v2VpVO8wBjvwiAfTZZDH9nXsPe9wJCxrLH2vjYyVLFYhnhrPA5SHfWVKGd4kb1f5QVYvy5w2uoT8OQYIhamZtwqZ1iT/mu9mj8lEqYiu/xVnn1I+iniiOQXVtL9hLnTano5aSb8fcrQYDKQIken6rphWX29Vf4am1jdbzpb14/qVndo6YDLmgankNaPQRzK55l2kA/w8KwcJqETE27oO54yfZVOMxTqpLnSGAwxv1J5u+nBDC4IwBxcZPOP7LHlr06Y8f6h1KLqlUveS8gbm8/s/VObgyKdvE879J/qFocNlzzJDbcOqsMNk8kFxtwA5Dqs910mooKGAmo1oEhgk+f7PyV7lmUxLqlpMkWmOAKtmUmM8LQJ/clIm9r/AK81vHAuR1RxJa0CGtEADYdF3pMTaNJTWMXoxx055ZExq6hAJy2wSIQRCoKIQRCqCEZSCSCwlJBKVQ5JNlGUBSQlCVAimlEppQNcubl1KYQg4uC4VqYcIIlSnBc3NWbF2osXlDDfQPz91V4jLmGxAHmtY5qiYjDtduFzvHGpf1kH9nmnaB6SEG9mvxAK/qYMt8JI8iuRa8cfcSseFXWNQcL2ZaLuqx5N/qu9fIKRu+q8wIA7u3QcF0c+pzHz/VMOs8B80uCzxhrMrwzR4XP3IBNp9LLrTptBltNrbRMXjlKaKbzx+S6soO4uPupONfJ11geI+iXxydm+pTmYRS2UFuYM3JDbTc65Kl0qC7sprq0LcjNoMZCdCcktaQIRSQlUFFNlEFVDwnAJgKeCgQRlDUm/EQWuSicLQJuTSpyTx7jVO0jkoWR//lof/Gn/ANGqeopukcktI5JySBukcktI5JySBukcktI5BOSQN0jkENI5BPSQV+YZhTpNeXQSxheWjfSJv02PsVzr5tQaxzy9pDQSQBLrB5iN57j7fhKfjctZVMuLvCWwCBZwIMmJO+0x0sFHq5BScXTr75eXAOsS/wCJJ25VngeY5BB2p5tRcSNWmHhneaWyS1rrSNocLptXNqAa5+oODWlx0tLjpBiRbmCPQ8ig/JqZcHuLnGQ6TpN9LWusWwNQY2Y5WhGplFOA2XQGGmACBYzeYmb+XRB0OYUJI1tkQIi8m0Abk+W3FLDY6k9jn90BmrXMd3SSDJ4WbPkQuIyWnqD9T9TS4sdIlheSXlto7xJJmd7QnU8mpNa+m3UG1C5zxI7znXLtrOki4+6EDnZhhxu9gtNxB4Wgje4tvddKGKoOaXNcwtEAmwAnaZXB+Ts1BznPcQ4Pu4XeABrMAX0tDY2jgpOHy9jNUCdQDSDcQ0uI+big44nGsbUbT+E5znAlukM7xaCSBqcOA32EgEgkLhTzekS0OpOYH64LgyBo1aiSHGRDCdQkQWyRIUvE4Br3B5c+RMAOgBxBZrHJ0OI5dFxq5RRfpDmksYGxTJlndBDTp5gEj25BBFd2goAgFjgS17o0iYYagI0zqJ/wn7C1piQutDOaTg1wpv0vJbqAa5ocNXdlrjqJ0O8OobSQmu7PUDaHBriZaDAJmo6eYg1HxB4iZhSKeUBrw8VakjVuWEEuMuMFtibbRsgVLM6TvhANdNWdLS0S3SHEl/3R3SPP1iw0DkPZV1DJ6QLHQXOa6Q90arawAS0CQPiOgdVaoGaByHsloHIeyekgZoHIeyWgch7J6SBmgch7JaByHsnpIGaByHsloHIeyekgZoHIeyGgch7Lokg//9k="
+                    width="400" height="300">
+            </ins>
+        </b>
+    </p>
+    <P>
+        Sardines ("pilchards") are a nutrient-rich, small, oily fish widely consumed by humans and as forage fish by
+        larger fish species, seabirds and marine mammals. Sardines are a source of omega-3 fatty acids. Sardines are
+        often served in cans, but can also be eaten grilled, pickled, or smoked when fresh.
+    </P>
+    <p>
+        <b>
+            <ins>
+                B. CLIMBING PERCH
+                <br>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVEouU-_mCF8WrFB8RyOxur2UOVjgt8nWm5w&usqp=CAU"
+                    width="400" height="300">
+            </ins>
+        </b>
+    </p>
+    <P>
+        Anabas testudineus, the climbing perch, is a species of fish in the family Anabantidae, the climbing gouramis.
+        It is native to Asia, where it occurs from India east to China and to the Wallace Line. It is an invasive
+        species that can live without water for 6–10 hours.
+    </P>
+    <p>
+        <b>
+            <ins>
+                C. POMFRET
+                <br>
+                <img src="http://www.freshfishmumbai.com/media/catalog/product/cache/1/thumbnail/600x/17f82f742ffe127f42dca9de82fb58b1/s/i/silver-pomfret-fish-extra-large-3.jpg"
+                    width="400" height="300">
+            </ins>
+        </b>
+    </p>
+    <P>
+        The silver pomfret or white pomfret is a species of butterfish that lives in coastal waters off the Middle East,
+        South Asia, and Southeast Asia. The species now also occurs in the Mediterranean, having colonized it as part of
+        Lessepsian migration through the Suez Canal
+    </P>
+    <p>
+        <b>
+            <ins>
+                D. HILSA
+                <br>
+                <img src="http://cdn.shopify.com/s/files/1/0033/9306/0909/products/Hilsa-Fish_7e33114e-9411-49fa-90c0-1fb0d12f11d3_1024x.jpg?v=1614542237"
+                    width="400" height="300">
+            </ins>
+        </b>
+    </p>
+    <P>
+        The ilish, also known as the ilisha, hilsa, hilsa herring or hilsa shad, is a species of fish related to the
+        herring, in the family Clupeidae. It is a very popular and sought-after food fish in the Indian Subcontinent.
+        The most famous hilsha fish comes from Chandpur District, Bangladesh.
+    </P>
+    <HR>
+    <H3>
+        <INS>
+            <i>
+                <mark>
+                    2. CEREALS AND PULSES.
+                </mark>
+            </i>
+        </INS>
+    </H3>
+    <P>
+        CEREALS and PULSES are almost consumed by all people of INDIA.
+    </P>
+    <OL type="A">
+        <LI>
+            <b><ins>CEREALS</ins></b>
+        </LI>
+        <ol type="i">
+            <LI>RICE</LI>
+            <img src="https://media.istockphoto.com/photos/ripe-rice-field-and-sky-background-at-sunset-picture-id1151784210"
+                width="400" height="300">
+            <p>
+                Rice is a staple food in different parts of the world and has to top our cereal food list. People
+                consume rice because it’s healthy and very filling and an ideal gluten-free meal option.
+                <br>
+                Benefits: 
+            <ul>
+                <li>Rice is nutrient-rich and improves overall health.</li>
+                <li>It’s anti-inflammatory and rich in fiber.</li>
+                <li>It provides energy to the body.</li>
+            </ul>
+            </p>
+            <LI>WHEAT</LI>
+            <img src="https://cdn.zmescience.com/wp-content/uploads/2016/12/wheat-field-640960_1920.jpg" width="400"
+                height="300">
+            <p>
+                Wheat is cultivated chiefly for its seed and is a worldwide staple food. There are many different wheat
+                plant types, but only the most popular one is the common wheat plant.
+                <br>
+                Benefits: 
+            <ul>
+                <li>Wheat aids in digestion and improves digestive health.</li>
+                <li>It’s rich in heart-healthy nutrients.</li>
+                <li>t may help in reducing the risk of obesity.</li>
+            </ul>
+            </p>
+            <LI>MAIZE</LI>
+            <img src="https://www.agrifarming.in/wp-content/uploads/2015/04/Maize-Farming.jpg" width="400" height="300">
+            <p>
+                The four main categories of corn or Maizeare field, popcorn, sweet and ornamental. More than 200
+                varieties of corn can be found growing in the United States today. Corn is very versatile since the
+                entire corn plant can be used. You can use the husks for making tamales, the silk to create a medicinal
+                tea, the kernels for food and the stalks for livestock feed. You can find corn in products like
+                tortillas, tortilla chips, cornmeal and corn oil. Miniature ears of corn, known as baby corn, can be
+                used in appetizers, soups, chowders, stews and stir fry dishes. Baby corn is particularly popular in
+                Thai and Chinese cooking.
+                <BR>
+                Benefits :
+            <ul>
+                <li>
+                    Corn has several health benefits. Because of the high fiber content, it can aid with digestion. 
+                </li>
+                <li>
+                    It also contains valuable B vitamins, which are important to your overall health. Corn also provides
+                    our bodies with essential minerals such as zinc, magnesium, copper, iron and manganese.
+                </li>
+                <li>
+                    Corn is a good source of the antioxidants carotenoids, lutein and zeaxanthin, which promote eye
+                    health.
+                </li>
+            </ul>
+            </p>
+            <LI>BARLEY</LI>
+            <img src="https://3.imimg.com/data3/UU/LX/MY-10718364/barley-500x500.jpg" width="400" height="300">
+            <p>
+                Barley is grown in temperate climates across the world. It is observed that barley can grow in
+                conditions where wheat can’t grow. Barley is one of the most important types of cereals in India after
+                rice and wheat.
+                <br>
+                Benefits:
+            <ul>
+                <li>
+                    Barley keeps you full and may help you lose weight.
+                </li>
+                <li>
+                    May reduce the risk of heart diseases.
+                </li>
+                <li>
+                    The beta-glucans present in barley may lower cholesterol.
+                </li>
+            </ul>
+            </p>
+            <LI>OATS</LI>
+            <img src="https://kj1bcdn.b-cdn.net/media/25332/oat.png" width="400" height="300">
+            <p>
+                Oats or oatmeal are mainly consumed as porridge. It comes in various forms and can be eaten in a lot of
+                ways. Oats is a very trendy breakfast these days.
+                <br>
+                Benefits: 
+            <ul>
+                <li>
+                    It helps in weight management.
+                </li>
+                <li>
+                    Improves digestion and prevents constipation.
+                </li>
+                <li>
+                    Improves blood sugar levels and is safe for people with diabetes.
+                </li>
+            </ul>
+            </p>
+            <LI>RYE</LI>
+            <img src="https://i.ndtvimg.com/i/2017-07/rye_620x350_71500654089.jpg" width="400" height="300">
+            <p>
+                Rye is typically grown in cold climatic conditions and is chiefly used for the production of alcoholic
+                drinks. It is also used for making food for animals and certain types of flour.
+                <br>
+                Benefits:
+            <ul>
+                <li>
+                    Rye has a high antioxidant content.
+                </li>
+                <li>
+                    It helps in lowering cholestrol levels.
+                </li>
+                <li>
+                    It has a low glycemic index and may help people with type 2 diabetes. 
+                </li>
+            </ul>
+            </p>
+            <LI>MILLETS</LI>
+            <img src="https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/09/bajra-pearl-millet-grain-1296x728-header.jpg?w=1155&h=1528"
+                width="400" height="300">
+            <p>
+                Millets is a very popular cereal among Americans, but it’s also used in many parts of the world. It is
+                one of the oldest types of cereals known to humankind and is a very healthy breakfast option in the form
+                of corn flakes.
+                <br>
+                Benefits: 
+            <ul>
+                <li>
+                    It aids in digestion due to high fiber content.
+                </li>
+                <li>
+                    It fulfills the body’s nutritional requirements.
+                </li>
+                <li>
+                    It promotes heart health.
+                </li>
+            </ul>
+            </p>
+        </OL>
+        <LI>
+            <b><ins>PULSES</ins></b>
+        </LI>
+        <ol type="i">
+            <LI>CHICKPEAS</LI>
+            <img src="https://www.inspiredtaste.net/wp-content/uploads/2016/06/How-to-Cook-Chickpeas-Recipe-2-1200.jpg"
+                width="400" height="300">
+            <P>
+                The name chickpea comes from the Latin word cicer, referring to the plant family of legumes, Fabaceae.
+                It is also known by its popular Spanish-derived name, the garbanzo bean. Kidney beans, black beans, lima
+                beans, and peanuts are other familiar foods found in this legume family.
+            </P>
+            <LI>GREEN BEANS</LI>
+            <img src="https://solidstarts.com/wp-content/uploads/Green-Bean-scaled.jpg" width="400" height="300">
+            <P>
+                Green beans are the unripe, young fruit of various cultivars of the common bean. Immature or young pods
+                of the runner bean, yardlong bean, and hyacinth bean are used in a similar way. Green beans are known by
+                many common names, including French beans, string beans, snap beans, snaps, and the French name haricot
+                vert.
+            </P>
+            <LI>DRY BEANS</LI>
+            <img src="https://cdn.harvesttotable.com/htt/2008/02/23174808/Beans-Mixed-Dry-bigstock-136082984-1024x683.jpg"
+                width="400" height="300">
+            <P>
+                Dry beans (Phaseolus vulgaris) belong to the diverse Fabaceae family, sometimes referred to as
+                Leguminosae. ... Dry beans are one of the major types of pulses, which also include other species like
+                lentils and chickpeas. There are many sub-varieties of P. vulgaris, including pinto, kidney, black,
+                white, and navy beans.
+            </P>
+            <LI>COWPEAS</LI>
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51TezATUHML.jpg" width="400" height="300">
+            <P>
+                The cowpea (Vigna unguiculata) is an annual herbaceous legume from the genus Vigna. Due to its tolerance
+                for sandy soil and low rainfall, it is an important crop in the semiarid regions across Africa and Asia.
+                It requires very few inputs, as the plant's root nodules are able to fix atmospheric nitrogen, making it
+                a valuable crop for resource-poor farmers and well-suited to intercropping with other crops. The whole
+                plant is used as forage for animals, with its use as cattle feed likely responsible for its name.
+            </P>
+            <LI>LENTILS</LI>
+            <img src="https://www.gimmesomeoven.com/wp-content/uploads/2020/03/How-To-Cook-Lentils-Recipe-4.jpg"
+                width="400" height="300">
+            <P>
+                The lentil is an edible legume. It is an annual plant known for its lens-shaped seeds. It is about 40 cm
+                tall, and the seeds grow in pods, usually with two seeds in each. As a food crop, the majority of world
+                production comes from Canada and India, producing 58% combined of the world total.
+            </P>
+            <LI>WHITE PEAS</LI>
+            <img src="https://5.imimg.com/data5/SK/HL/GLADMIN-11656764/white-peas-1-kg-500x500.png" width="400"
+                height="300">
+            <P>
+                White peas look quite similar to garbanzo beans, except that they are smaller in size and they
+                are white in colour. White peas are nothing but dried white peas. They are produced by harvesting the
+                peapods when they are fully mature and then they are dried. They are available throughout the year.
+            </P>
+            <LI>RED KIDNEY BEANS</LI>
+            <img src="https://5.imimg.com/data5/VK/CJ/MY-30741717/dry-cloves-500x500.jpg" width="400" height="300">
+            <P>
+                The kidney bean is a variety of the common bean (P. vulgaris), so named because of its kidney-like shape
+                and its colour. The optimum moisture range is 12–14%. The colour of kidney beans ranges all the way from
+                very light red to very dark, almost purple. ‘Hard seed’ is a term reserved for those seeds that take up
+                water slowly or not at all during soaking because of a relatively impermeable seed coat. ‘Hard seeds’
+                are often found after storage of dried beans in an atmosphere of very low humidity. A small percentage
+                of hard seeds may be expected in kidney beans held under such conditions. These beans generally do not
+                soak up completely and may remain undesirably hard, even after canning.
+            </P>
+            <LI>BENGAL GRAM</LI>
+            <img src="https://vizaggrocers.com/2383-large_default/bengal-gram-sanagapappu-bangaal-graam.jpg" width="400"
+                height="300">
+            <P>
+                Bengal gram, closely related to the chickpea family, is a yellow lentil, rounded on one side and flat on
+                the other. Bengal gram is one of the earliest cultivated legumes. In Indian cuisine, it is popularly
+                known as Chana Dal. Bengal gram seeds are small and dark and have a rough coat.
+            </P>
+        </ol>
+    </OL>
+    <HR>
+    <H3>
+        <ins>
+            <i>
+                3. FRUITS AND VEGETABLES.
+            </i>
+        </ins>
+    </H3>
+    <P>
+        FRUITS and VEGETABLES are consumed by all people of INDIA.
+    </P>
+    <OL type="A">
+        <LI>
+            <b><ins>FRUITS</ins></b>
+        </LI>
+        <ol type="i">
+            <LI>APPLE</LI>
+            <img src="https://post.greatist.com/wp-content/uploads/2020/09/health-benefits-of-apples-1200x628-facebook-1200x628.jpg"
+                width="400" height="300">
+            <p>
+                Apple trees are large if grown from seed. Generally, apple cultivars are propagated
+                by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500
+                known cultivars of apples, resulting in a wide range of desired characteristics. Different cultivars are
+                bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are
+                prone to a number of fungal, bacterial and pest problems, which can be controlled by a number
+                of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on
+                disease control and selective breeding in apple production.
+            </p>
+            <LI>MANGO</LI>
+            <img src="https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/06/26/Pictures/three-mangos-on-a-white-background_c0f9cd16-7908-11e8-b46a-be68571826e9.jpg"
+                width="400" height="300">
+            <p>
+                Mangoes are believed to have originated from the region between northwestern Myanmar, Bangladesh, and
+                northeastern India.[1][2] The mango is considered an evolutionary anachronism, whereby seed
+                dispersal was once accomplished by a now-extinct evolutionary forager, such as a megafauna mammal.
+            </p>
+            <LI>BANANA</LI>
+            <img src="https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-1200-80.jpg" width="400" height="300">
+            <p>
+                Bananas are among the most important food crops on the planet. They come from a family of plants called
+                Musa that are native to Southeast Asia and grown in many of the warmer areas of the world. Bananas are a
+                healthy source of fiber, potassium, vitamin B6, vitamin C, and various antioxidants and phytonutrients.
+            </p>
+            <LI>GRAPES</LI>
+            <img src="https://5.imimg.com/data5/DQ/PC/MY-44589255/organic-fresh-grape-500x500.jpg" width="400"
+                height="300">
+            <p>
+                A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus
+                Vitis. Grapes can be eaten fresh as table grapes or they can be used for making wine, jam, grape juice,
+                jelly, grape seed extract, raisins, vinegar, and grape seed oil.
+            </p>
+            <LI>ORANGE</LI>
+            <img src="https://5.imimg.com/data5/KM/QP/MY-22954806/orange-500x500.jpg" width="400" height="300">
+            <p>
+                Oranges are round orange-coloured fruit that grow on a tree which can reach 10 metres (33 ft) high.
+                Orange trees have dark green shiny leaves and small white flowers with five petals. The flowers smell
+                very sweet which attracts many bees.
+            </p>
+            <LI>LITCHI</LI>
+            <img src="https://5.imimg.com/data5/AB/ER/MY-8583111/lichies-500x500.png" width="400" height="300">
+            <p>
+                Lychee, (Litchi chinensis), also spelled litchi or lichi, evergreen tree of the soapberry family
+                (Sapindaceae), grown for its edible fruit. Lychee is native to Southeast Asia and has been a favourite
+                fruit of the Cantonese since ancient times. The fruit is usually eaten fresh but can also be canned or
+                dried. The flavour of the fresh pulp is aromatic and musky, and the dried pulp is acidic and very sweet.
+            </p>
+            <LI>WATERMELON</LI>
+            <img src="data:image/jpeg;base64,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"
+                width="400" height="300">
+            <p>
+                Watermelon is a sweet and refreshing low calorie summer snack. It provides hydration and also essential
+                nutrients, including vitamins, minerals, and antioxidants.
+                Along with cantaloupe, honeydew, and cucumber, watermelons are a member of the Cucurbitaceae family.
+                There are five common types of watermelon: seeded, seedless, mini, yellow, and orange.
+            </p>
+        </ol>
+        <LI>
+            <b><ins>VEGETABLES</ins></b>
+        </LI>
+        <ol type="i">
+            <LI>CARROT</LI>
+            <img src="https://www.jessicagavin.com/wp-content/uploads/2019/02/carrots-7-1200.jpg" width="400"
+                height="300">
+            <P>
+                The carrot is a root vegetable, usually orange in color, though purple, black, red, white, and yellow
+                cultivars exist. They are a domesticated form of the wild carrot, Daucus carota, native to Europe and
+                Southwestern Asia. The plant probably originated in Persia and was originally cultivated for its leaves
+                and seeds. 
+            </P>
+            <LI>BRINJAL</LI>
+            <img src="https://images-na.ssl-images-amazon.com/images/I/51G7Txhuz5L._SX466_.jpg" width="400"
+                height="300">
+            <P>
+                Eggplant, aubergine or brinjal is a plant species in the nightshade family Solanaceae. Solanum melongena
+                is grown worldwide for its edible fruit. Most commonly purple, the spongy, absorbent fruit is used in
+                several cuisines. Typically used as a vegetable in cooking, it is a berry by botanical definition. 
+            </P>
+            <LI>ONION</LI>
+            <img src="https://images-na.ssl-images-amazon.com/images/I/71G2ZJO50%2BL._SL1500_.jpg" width="400"
+                height="300">
+            <P>
+                The onion, also known as the bulb onion or common onion, is a vegetable that is the most widely
+                cultivated species of the genus Allium. The shallot is a botanical variety of the onion. Until 2010, the
+                shallot was classified as a separate species. 
+            </P>
+            <LI>PUMPKIN</LI>
+            <img src="https://static.toiimg.com/photo/72279200.cms" width="400" height="300">
+            <P>
+                A pumpkin is a cultivar of winter squash that is round with smooth, slightly ribbed skin, and is most
+                often deep yellow to orange in coloration. The thick shell contains the seeds and pulp. 
+            </P>
+            </P>
+            <LI>POTATO</LI>
+            <img src="https://imgk.timesnownews.com/story/potato_1_0.jpg?tr=w-560,h-292,fo-top" width="400"
+                height="300">
+            <P>
+                The potato is a root vegetable native to the Americas, a starchy tuber of the plant Solanum tuberosum,
+                and the plant itself is a perennial in the nightshade family, Solanaceae. Wild potato species,
+                originating in modern-day Peru, can be found throughout the Americas, from Canada to southern Chile. 
+            </P>
+        </OL>
+        <HR>
+            <fieldset>
+                <legend>
+                INTRODUCTION :
+                </legend>
+        <P>
+            <b>
+                <mark>
+                    PLEASE KINDLY FILL UP THE FEEDBACK FORM.
+                </mark>
+            </b>
+        </P>
+        <form>
+            <label for="NAME"><abbr title="please fill this part"> FIRST NAME*</abbr></label>
+            <br>
+            <input type="text" name="NAME" required maxlength="15" autocomplete="on" autofocus >
+            <br>
+            <br>
+            <label for="NAME"><abbr title="please fill this part"> LAST NAME*</abbr></label>
+            <br>
+            <input type="text" name="NAME" required maxlength="15" autocomplete="on" >
+            <br>
+            <br>
+            <label for="COUNTRY">COUNTRY*</label>
+            <br>
+            <input type="text" name="COUNTRY" required maxlength="15" autocomplete="on" value="INDIA" readonly >
+            <br>
+            <br>
+            <label for="STATE">STATE*</label>
+            <br>
+            <input type="value" name="STATE"  autocomplete="on" required >
+            <br>
+            <br>
+            <label for="CITY">CITY*</label>
+            <br>
+            <input type="text" name="CITY"  autocomplete="on" required >
+            <br>
+            <br>
+            <label for="ADDRESS">ADDRESS</label>
+            <br>
+            <input type="text" name="ADDRESS" autocomplete="off" required>
+            <br>
+            <br>
+            <label for="PIN CODE">PIN CODE*</label>
+            <br>
+            <input type="value" name="PIN CODE" autocomplete="off" required >
+            <br>
+            </fieldset>
+            <BR>
+                <fieldset>
+                    <legend>
+                   CREDENTIALS :
+                    </legend>
+                <label for="month">
+                    SELECT YOUR BIRTH MONTH
+                    </label><br>
+                    <input type="month" name="month">
+                    <BR>
+                    <BR>
+                        <label for="week">
+                            SELECT YOUR BIRTH WEEK
+                            </label><br>
+                            <input type="week" name="week">
+                            <BR>
+                            <BR>
+                                <label for="datemax">
+                                    ENTER YOUR BIRTH DATE
+                                    </label><BR>
+                                    <input type="date" name="datemax" max="2021-06-15">
+                                    <br><BR>
+                                    <label for="datemin">
+                                    ENTER THE DATE 0F FILLING THE GOOGLE FORM
+                                    </label><BR>
+                                    <input type="date" name="datemin" min="2021-06-15">
+                                    <br>
+                                    <br>
+                                    <label for="watch">
+                                        SELECT THE TIME OF FILLING THE FORM
+                                        </label><br>
+                                        <input type="time" name="watch">
+                                        <BR>
+                                        <BR>
+                                            <label for="PHONE">
+                                                ENTER YOUR PHONE NUMBER
+                                                </label>
+                                                <input type="tel" name="PHONE" placeholder="012-345-6789" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+                                                <br>
+                                                <br>
+                                                <label for="mail">
+                                                    ENTER YOUR E-MAIL ID
+                                                    </label>
+                                                    <input type="email" name="mail">
+                                                    <BR>
+                                                    <BR>
+                                                        <br>
+                                                        <br>
+                                                        <label for="GENDER">GENDER*</label>
+                                                        <br>
+                                                        <input type="radio" name="GENDER" value="MALE" >
+                                                        <label for="MALE">MALE</label>
+                                                        <br>
+                                                        <input type="radio" name="GENDER" value="FEMALE"  >
+                                                        <label for="FEMALE">FEMALE</label>
+                                                        <br>
+                                                        <input type="radio" name="GENDER" value="OTHERS">
+                                                        <label for="OTHERS">OTHERS</label>
+                </fieldset>
+                <BR>
+                <fieldset>
+                    <legend>
+                    PERSONAL INTERESTS:
+                    </legend>
+            <label for="WHAT IS YOUR FAVOURITE FOOD ?">WHAT IS YOUR FAVOURITE FOOD ?</label>
+            <br>
+            <input list="browsers">
+<datalist id="browsers">
+<option value="FISH">
+<option value="FRUITS">
+<option value="VEGETABLES">
+<option value="CEREALS">
+<option value="PULSES">
+</datalist>
+<br>
+<br>
+            <label for="WHAT IS YOUR FAVOURITE FISH ?">WHAT IS YOUR FAVOURITE FISH ?</label>
+            <br>
+            <input type="radio" name="WHAT IS YOUR FAVOURITE FISH ?" value="SARDINE">
+            <label for="SARDINE">SARDINE</label>
+            <br>
+            <input type="radio" name="WHAT IS YOUR FAVOURITE FISH ?" value="CLIMBING PERCH">
+            <label for="CLIMBING PERCH">CLIMBING PERCH</label>
+            <br>
+            <INPUT type="radio" name="WHAT IS YOUR FAVOURITE FISH ?" value="POMFRET">
+            <label for="POMFRET">POMFRET</label>
+            <br>
+            <INPUT type="radio" name="WHAT IS YOUR FAVOURITE FISH ?" value="POMFRET">
+            <label for="POMFRET">POMFRET</label>
+            <br>
+            <BR>
+            <label for="WHAT ARE YOUR FAVOURITE CEREALS ?">WHAT ARE YOUR FAVOURITE CEREALS ?</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE CEREALS ?" value="">
+            <label for="">RICE</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE CEREALS ?" value="">
+            <label for="">WHEAT</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE CEREALS ?" value="">
+            <label for="">MAIZE</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE CEREALS ?" value="">
+            <label for="">BARLEY</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE CEREALS ?" value="">
+            <label for="">OATS</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE CEREALS ?" value="">
+            <label for="">RYE</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE CEREALS ?" value="">
+            <label for="">MILLETS</label>
+            <br>
+            <br>
+            <label for="WHAT ARE YOUR FAVOURITE PULSES ?">WHAT ARE YOUR FAVOURITE PULSES ?</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE PULSES ?" value="">
+            <label for="">CHICK PEAS</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE PULSES ?" value="">
+            <label for="">GREEN BEANS</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE PULSES ?" value="">
+            <label for="">DRY BEANS</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE PULSES ?" value="">
+            <label for="">COW PEAS</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE PULSES ?" value="">
+            <label for="">LENTILS</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE PULSES ?" value="">
+            <label for="">WHITE PEAS</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE PULSES ?" value="">
+            <label for="">RED KIDNEY BEANS</label>
+            <br>
+            <input type="checkbox" name="WHAT ARE YOUR FAVOURITE PULSES ?" value="">
+            <label for="">BENGAL GRAM</label>
+            <br>
+            <br>
+                <label for="WHAT IS YOUR FAVOURITE FRUIT ?">CHOOSE YOUR FAVOURITE FRUIT.</label>
+                <br>
+                <BR>
+                <select name="fruit" size="4" multiple>
+                    <option value="">
+                        APPLE
+                    </option>
+                    <option value="">
+                        MANGO
+                    </option>
+                    <option value="">
+                        BANANA
+                    </option>
+                    <option value="">
+                        GRAPES
+                    </option>
+                    <option value="">
+                        ORANGE
+                    </option>
+                    <option value="">
+                        LITCHI
+                    </option>
+                    <option value="">
+                        WATERMELON
+                    </option>
+                </select>
+                <br>
+                <BR>
+                    <label for="WHAT IS YOUR FAVOURITE VEGETABLE ?">CHOOSE YOUR FAVOURITE VEGETABLE.</label>
+                    <br>
+                    <br>
+                    <select name="VEGETABLE">
+                        <option value="">
+                            CARROT
+                        </option>
+                        <option value="">
+                            POTATO
+                        </option>
+                        <option value="">
+                            ONION
+                        </option>
+                        <option value="">
+                            BRINJAL
+                        </option>
+                        <option value="">
+                            PUMPKIN
+                        </option>
+                    </select>
+                    </fieldset>
+                    <BR>
+                    <BR>
+                        <fieldset>
+                            <legend>
+                            PERSONAL REMARKS :
+                            </legend>
+                    <label for="DESCRIPTION">DESCRIPTION.</label>
+                    <P>WRITE ABOUT YOUR FAVOURITE FOOD.</P>
+                    <textarea name="message" rows="20" column="20">
+description
+</textarea>
+<BR>
+    <BR>
+<label for="quantity">
+    FROM THE ABOVE LIST OF FOOD ITEMS, HOW MANY OF THE FOOD ITEMS YOU EAT REGULARLY ?
+    </label><br>
+    <br>
+    <input type="number" name="quantity" min="1" max="20">
+    <BR>
+    <BR>
+        <label for="my file">
+            UPLOAD THE PICTURE OF YOUR FAVOURITE FOOD 
+            </label>
+            <BR>
+            <br>
+            <input type="file" name="my file">
+            <BR>
+            <BR>
+                <label for="vol">
+                    HOW MUCH DID YOU LIKED IN FILLING THE GOOGLE FORM ?
+                    </label><br>
+                    <input type="range" name="vol" min="0" max="100">
+                    <BR>
+                    <BR>
+                        <label for="points">
+                        OUT OF 100 HOW MUCH POINTS WILL YOU GIVE TO THIS ARTICLE ?
+                            </label><br>
+                            <input type="number" name="points" step="5" min="0" max="100">
+                            <BR>
+                            <BR>
+                                <input type = "reset" value = "Reset">
+</fieldset>
+                    <BR>
+                    <BR>
+                    <button onclick="myfunction()">
+                        click here
+                    </button>
+                    <br>
+                    <br>
+                    <p><B>Thank you for your response.</B></p>
+                </form>
+                <hr>
+                <address>
+                    Written by Ayush.
+                </address>
+                <bdo dir="rtl">
+                    some information is taken from the internet.
+                </bdo>
+                <blockquote
+                    cite="https://www.google.com/search?q=types+of+cereals&oq=&aqs=chrome.1.35i39i362l7j69i59i450...7.195087937j0j15&sourceid=chrome&ie=UTF-8">
+                    INDIAN FOODS.
+                </blockquote>
+                <hr>
+                <br>
+                <!-- java sript starts from here -->
+                <script>
+                    function myfunction() {
+                        alert("Form Submitted");
+                    }
+                </script>
+                <!-- js ends -->
+</body>
+
+</html>
